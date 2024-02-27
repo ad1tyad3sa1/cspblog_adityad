@@ -28,13 +28,11 @@ Our project is a web-based game that resembles Little Alchemy, a game where you 
 
 My feature is the leaderboard, which uses data from our users api and formats it into a table ranking the users from highest points to lowest points on the table. 
 
-# Requirements
+# Component A: Program Code Requirements
 
 In your program, you must include student-developed program code that contains the following: 
 
-**Instructions for input from one of the following:**
-
-**The user (including user actions that trigger events).**
+**The user (including user actions that trigger events):**
 
 ![Shop](https://files.catbox.moe/c7z9hx.png)
 
@@ -72,7 +70,7 @@ Procedure uses an algorithm:
 
 **Calls to student developed procedure**
 
-![call](https://files.catbox.moe/6ov2rc.png)
+![call](https://files.catbox.moe/ccavc1.png)
 
 - Initializes procedure and outputs a response if successful
 
@@ -82,7 +80,25 @@ Procedure uses an algorithm:
 
 - Reorders based off points from highest to lowest as shown above.
 
-[Video](https://drive.google.com/file/d/1LSsSAj80p_kaRbLHACz2czgfi7KIzKXf/view?usp=sharing)
+| Collegeboard Requirements | Me |
+|------------------|------------------|
+| Instructions for input from one of the following: the user, a device, an online datas stream, a file.  | Our Project allows a user to bake items and purchase ingredients using the points they earned. They must click items in order to spend points and purchase items. Or they can arrange items into a recipe and click bake to gain points and purchase more items. |
+| Use of at least one list (or other collection type) to represent a collection of data that is stored and used to manage program complexity and help fulfill the users purpose.  | An example of a collection of data that is stored is user data and points displayed on the leaderboard.|
+| At least one procedure that contirubted to the program's intened purpose where you have defined: the name, return type, one or more parameters:  | My reorder leaderboard procedure performs the task of arranging the leaderboard from highest to lowest which is displayed accordingly. |
+| An algorithm that includes sequencing, selection, and iteration that is in the body of the selected procedure  | This function shows the sequencing, selection, and iteration as explained above. |
+| Calls to your student-developed prodcedure:  | Calls reorder leaderboard function to initialize the process. |
+
+# Component B: Video 
+
+| Collegboard Requirements | My Video |
+|------------------|------------------|
+| Input to program  | Seen in video, buying products with points from shop and baking items on bake page.  |
+| At least one aspect of the functionality of your program| The Leaderboard functionality which reorders the users from highest to lowest points.  |
+| Output produced by program:  | The Leaderboard properly displays all data and the users are arranged accordingly.  |
+| My video does not have: | any distinguishing information and voice narration  |
+| My video is | a .mp4, less than 1 minute in length, less than 30MB in file size.  |
+
+[My Video](https://drive.google.com/file/d/1LSsSAj80p_kaRbLHACz2czgfi7KIzKXf/view?usp=sharing)
 
 **Commits:**
 
