@@ -1,8 +1,8 @@
 ---
 comments: true
 layout: post
-title: MCQ 2020 Frequently Missed Questions
-description: Reviewing practice MC 2021
+title: MCQ 2021 Corrections
+description: Reviewing errors from practice MC 2021
 type: plans
 courses: {'compsci': {week: 26} }
 ---
