@@ -9,6 +9,8 @@ courses: {'compsci': {week: 26} }
 
 # Quiz Reflection
 
+**Score = 61/70**
+
 ------------------------------------------------------------
 
 ## Corrections
