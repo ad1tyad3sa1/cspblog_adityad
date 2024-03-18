@@ -57,6 +57,7 @@ courses: {'compsci': {week: 26} }
 ![q45](https://files.catbox.moe/prirp4.png)
 
 - In this code segment, the first call to botStepper moves the robot forward two squares, rotates it left so that it faces toward the top of the grid, moves it forward two squares, and rotates it right so that it faces right. The code segment then moves the robot forward one square. The second call to botStepper moves the robot forward three squares, rotates it left so that it faces toward the top of the grid, moves it forward three squares, and rotates it right so that it faces right. The robot ends in the gray square. Therefore, choice C completes the task.
+
 **Question 48**
 
 ![q48](https://files.catbox.moe/22j0qh.png)
