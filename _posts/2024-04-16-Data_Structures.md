@@ -51,6 +51,8 @@ courses: {'compsci': {week: 28} }
 
 - In VSCode use Debugger and list, show two distinct example examples of dictionaries, show Keys/Values using debugger.
 
+![debug](https://files.catbox.moe/sjdbv0.png)
+
 **APIs and JSON**
 
 - Python API code and use of Postman to request and respond with JSON.
@@ -163,8 +165,12 @@ In the ML projects, there is a great deal of algorithm analysis. Think about pre
 
 - Discuss concepts and understanding of Linear Regression algorithms.
 
+![linear_regression](https://files.catbox.moe/gp1ybb.png)
+
 *Used in modeling the relationship between a dependent variable and one or more independent variables. Specifically, used in Titanic and Bakery ml models where we had to determine survival probability or item purchased from multiple factors.*
 
 - Discuss concepts and understanding of Decision Tree analysis algorithms.
+
+![decision3](https://files.catbox.moe/11v9jv.jpg)
 
 *Used for both classification and regression tasks that involve complicated data sets that can;t be solved based off of linear regression. Requires structured input and approach and may struggle with outliers. Especially helpful in titanic model which required a lot of similar data fields related to income and family.*
