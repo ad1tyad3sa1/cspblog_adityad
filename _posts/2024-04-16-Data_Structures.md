@@ -47,11 +47,15 @@ courses: {'compsci': {week: 28} }
 
 *As shown above, ingredients (stored in dictionary) and bakedgoods (stored in list) present in api code (bakings.py model file).*
 
+![debug](https://files.catbox.moe/sjdbv0.png)
+
 - In VSCode using Debugger, show a list as extracted from database as Python objects.
+
+![debugfix](https://files.catbox.moe/9qnmyj.png)
 
 - In VSCode use Debugger and list, show two distinct example examples of dictionaries, show Keys/Values using debugger.
 
-![debug](https://files.catbox.moe/sjdbv0.png)
+![datatest](https://files.catbox.moe/10npwe.png)
 
 **APIs and JSON**
 
