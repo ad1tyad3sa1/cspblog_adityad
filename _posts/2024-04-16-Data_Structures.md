@@ -129,7 +129,7 @@ courses: {'compsci': {week: 28} }
 
 - In the Chrome browser, show a demo (POST or UPDATE) gathering and sending input and receiving a response that show update. Repeat this demo showing both success and failure.
 
-![BakingClass](https://files.catbox.moe/1amyo2.png)
+![demo2](https://files.catbox.moe/zmqyqt.png)
 
 - In JavaScript code, show and describe code that handles success. Describe how code shows success to the user in the Chrome Browser screen.
 
