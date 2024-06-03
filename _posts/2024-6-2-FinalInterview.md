@@ -81,7 +81,7 @@ Checkout my linkedin to see my projects, achievements, and extracurricular that 
 
 - Machine Learning: Implement predictive models in Python to provide users with personalized health and workout recommendations.
 
-# Family
+# Family/Friends
 
 **Smart Calendar App:**
 
